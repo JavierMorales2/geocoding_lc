@@ -1,4 +1,4 @@
-# Script de Georreferenciación para Talleres en Las Condes
+# Script de Georreferenciación
 
 Este repositorio contiene un script en R diseñado para georreferenciar direcciones de talleres en la comuna de Las Condes, Chile. El script utiliza varias librerías de R para procesar un archivo Excel de entrada, realizar la geocodificación de las direcciones y exportar los resultados.
 
